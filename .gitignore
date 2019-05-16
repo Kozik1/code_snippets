@@ -6,3 +6,5 @@ __pycache__/
 s.txt
 script.txt
 .vscode
+venv
+.DS_Store
